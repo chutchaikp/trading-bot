@@ -2,3 +2,4 @@
 https://www.youtube.com/watch?v=gWJr20O7rBI&t=111s
 
 
+# Limit Risk/High Return 
