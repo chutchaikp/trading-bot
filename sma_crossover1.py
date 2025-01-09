@@ -1,6 +1,9 @@
+# https://www.youtube.com/watch?v=4kdR6Ixt51U&list=PLNzr8RBV5nboxi7Hg3cv-CuTF2tO70r_P&index=5
+
 """
 Author: TraderPy
 Link: https://www.youtube.com/channel/UC9xYCyyR_G3LIuJ_LlTiEVQ
+
 
 Risk Disclaimer:
 Trading the financial markets imposes a risk of financial loss.
